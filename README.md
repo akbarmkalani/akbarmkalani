@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/akbarmkalani](https://github.com/akbarmkalani)
 
-- 💬 Ask me about **HTML5 CSS3 JAVASCRIPT SASS REACT GIT**
+- 💬 Ask me about **Html5 Css3 JAVASCRIPT SASS REACT GIT**
 
 - 📫 How to reach me **akbarm.web@gmail.com**
 
