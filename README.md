@@ -22,11 +22,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbarmkalani&show_icons=true&locale=en&layout=compact" alt="akbarmkalani" /></p>
 
-<img align="left" src="https://user-images.githubusercontent.com/121675616/216784287-c3ad255c-3e5e-49c5-ae54-598f1fa92882.gif" alt="akbarmkalani"  width="350" height="250" />
+<img align="left" src="https://user-images.githubusercontent.com/121675616/216784287-c3ad255c-3e5e-49c5-ae54-598f1fa92882.gif" alt="akbarmkalani"  width="450" height="250" />
 
 
 
-<img align="left" src="https://user-images.githubusercontent.com/121675616/216784486-f282837e-bd9b-43e2-bfe8-2e16df977f7f.jpg" alt="akbarmkalani"  width="350" height="250" />
+*** 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akbarmkalani&show_icons=true&locale=en" alt="akbarmkalani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbarmkalani&" alt="akbarmkalani" /></p>
