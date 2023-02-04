@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akbarmkalani&show_icons=true&locale=en&layout=compact" alt="akbarmkalani" /></p>
 
-<img align="left" src="https://user-images.githubusercontent.com/121675616/216784287-c3ad255c-3e5e-49c5-ae54-598f1fa92882.gif" alt="akbarmkalani"  width="200" height="200" />
+<img align="left" src="https://user-images.githubusercontent.com/121675616/216784287-c3ad255c-3e5e-49c5-ae54-598f1fa92882.gif" alt="akbarmkalani"  width="350" height="250" />
 
 
 
