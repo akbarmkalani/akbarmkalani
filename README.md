@@ -26,11 +26,11 @@
 
 
 
-
+<img align="left" src="https://user-images.githubusercontent.com/121675616/216784486-f282837e-bd9b-43e2-bfe8-2e16df977f7f.jpg" alt="akbarmkalani"  width="350" height="250" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akbarmkalani&show_icons=true&locale=en" alt="akbarmkalani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akbarmkalani&" alt="akbarmkalani" /></p>
 
-<img align="left" src="https://user-images.githubusercontent.com/121675616/216784486-f282837e-bd9b-43e2-bfe8-2e16df977f7f.jpg" alt="akbarmkalani"  width="350" height="250" />
+
 
 
