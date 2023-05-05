@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akbar Mohammadi</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
 
-<img align="left" src="https://user-images.githubusercontent.com/121675616/216784287-c3ad255c-3e5e-49c5-ae54-598f1fa92882.gif" alt="akbarmkalani"  width="450" height="250" />
+<img align="center" src="https://user-images.githubusercontent.com/121675616/216784287-c3ad255c-3e5e-49c5-ae54-598f1fa92882.gif" alt="akbarmkalani"  width="450" height="250" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbarmkalani&label=Profile%20views&color=0e75b6&style=flat" alt="akbarmkalani" /> </p>
 
