@@ -7,7 +7,7 @@ I am a web Developer and software engineer from Afghanistan
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-javascript
+```javascript
 const AkbarKalani = {     
     pronouns: "He" | "Him",     
     aboutMe: "I'm front end Developer from from Afghanistan"
@@ -27,7 +27,7 @@ const AkbarKalani = {
    currentFocus: "React.js Web Development",     
    funFact: "Bug's and Errors are my best friends" 
 };
-
+```
 
 <br>
 
