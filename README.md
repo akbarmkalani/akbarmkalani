@@ -3,7 +3,27 @@
 
 <p align="center">><img align="center" src="https://user-images.githubusercontent.com/121675616/216784287-c3ad255c-3e5e-49c5-ae54-598f1fa92882.gif" alt="akbarmkalani"  width="650" height="350" /></P>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akbarmkalani&label=Profile%20views&color=0e75b6&style=flat" alt="akbarmkalani" /> </p>
+javascript
+const AkbarKalani = {     
+    pronouns: "He" | "Him",     
+    aboutMe: "I'm front end Developer from from Afghanistan"
+    language: ["javaScript" "continue"]          
+    myStack: {             
+        frontEndDeveloper: {             
+          frameworks: ["React.js", "Swiper", "SCSS" , "bootstrap", "tailwind  "],                   
+         : ["HTML","CSS","GIT"],
+          DataBases: [ "MySQL",],
+          API: [ "openAPI"],
+        },         
+        frontEnd: {             
+          web: ["i'm  front-en developer"],         
+        },         
+               
+   },    
+   currentFocus: "React.js Web Development",     
+   funFact: "Bug's and Errors are my best friends" 
+};
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbarmkalani" alt="akbarmkalani" /></a> </p>
 
