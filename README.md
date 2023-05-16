@@ -15,8 +15,7 @@ const AkbarKalani = {
     language: ["javaScript" "continue"]          
     myStack: {             
         frontEndDeveloper: {             
-          frameworks: ["React.js", "Swiper", "SCSS" , "bootstrap", "tailwind  "],                   
-         : ["HTML","CSS","GIT"],
+          frameworks: ["React.js", "Swiper", "SCSS" , "bootstrap", "tailwind", "HTML","CSS","GIT"],                  
           DataBases: [ "MySQL",],
           API: [ "openAPI"],
         },         
@@ -39,7 +38,12 @@ const AkbarKalani = {
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 </p>
-
+    
+<h1 align="center">Socials</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/akbar-kalani-m/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.instagram.com/code_by_akbar/" target="_blank" rel="noreferrer" align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+</p>
 
 
 
