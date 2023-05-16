@@ -1,11 +1,8 @@
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome&height=100&section=header"/>
 </p>
-
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
 I am a web Developer and software engineer from Afghanistan 
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```javascript
@@ -28,8 +25,6 @@ const AkbarKalani = {
    funFact: "Bug's and Errors are my best friends" 
 };
 ```
-
-<br>
 <br>
 <h1 align="center">Skills</h1>
 <a href="https://github.com/neginsoleimani"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neginsoleimani&langs_count=10&title_color=57bcda&text_color=ffffff&icon_color=facc15&bg_color=20232a&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"><p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -44,6 +39,9 @@ const AkbarKalani = {
 <a href="https://www.linkedin.com/in/akbar-kalani-m/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.instagram.com/code_by_akbar/" target="_blank" rel="noreferrer" align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
-
+    
+    <h1 align="center">Stats</h1>
+ <p align="center">
+<img height='165px' src="https://github-readme-stats.vercel.app/api?username=neginsoleimani&show_icons=true&bg_color=20232a&color=57bcda&line=c792ea&point=ffffff&title_color=57bcda&icon_color=00c4ff&text_color=ffffff&hide_border=true"> <img height='165px' src="https://streak-stats.demolab.com/?user=neginsoleimani&stroke=ffffff&&background=20232a&ring=54b6d2&fire=5fd4f4&currStreakNum=ffffff&currStreakLabel=5fd4f4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"></h1><p>
 
 
