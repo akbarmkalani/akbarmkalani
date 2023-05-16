@@ -27,9 +27,9 @@ const AkbarM = {
 };
 ```
 <br>
-<h1 align="center">Skills</h1>
-<a href="https://github.com/akbarmkalani"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neginsoleimani&langs_count=10&title_color=57bcda&text_color=ffffff&icon_color=facc15&bg_color=20232a&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages">
 
+<h1 align="center">Skills</h1>
+<a href="https://github.com/akbarmkalani"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neginsoleimani&langs_count=10&title_color=57bcda&text_color=ffffff&icon_color=facc15&bg_color=20232a&locale=en&hide_border=true&custom_title=Top%30%Languages" alt="Top Languages">
 
 <p align="left">
 
@@ -41,6 +41,7 @@ const AkbarM = {
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 </p>
+
     
 <h1 align="center">Socials</h1>
 <p align="center">
