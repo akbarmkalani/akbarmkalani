@@ -27,9 +27,10 @@ const AkbarM = {
 };
 ```
 <br>
-[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />]()
+## Connect with me
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:akbarm.web@gmail.com)
- 
+
+
 <h1 align="center">Skills</h1>
 <a href="https://github.com/akbarmkalani"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neginsoleimani&langs_count=10&title_color=57bcda&text_color=ffffff&icon_color=facc15&bg_color=20232a&locale=en&hide_border=true&custom_title=Top%30%Languages" alt="Top Languages">
 
