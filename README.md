@@ -57,4 +57,7 @@ const AkbarM = {
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+## Connect with me
 
+
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:akbarm.web@gmail.com)
