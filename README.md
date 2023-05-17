@@ -59,6 +59,7 @@ const AkbarM = {
 </p>
     
 <h1 align="center">Stats</h1>
+<p align="center">
 <img height='165px' src="https://github-readme-stats.vercel.app/api?username=akbarmkalani&show_icons=true&bg_color=20232a&color=57bcda&line=c792ea&point=ffffff&title_color=57bcda&icon_color=00c4ff&text_color=ffffff&hide_border=true"> <img height='165px' src="https://streak-stats.demolab.com/?user=neginsoleimani&stroke=ffffff&&background=20232a&ring=54b6d2&fire=5fd4f4&currStreakNum=ffffff&currStreakLabel=5fd4f4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"></h1><p>
 
 
