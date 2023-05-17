@@ -18,7 +18,7 @@ const AkbarM = {
           frameworks: ["React.js", "Swiper", "SCSS" , "bootstrap", "tailwind", "HTML","CSS","GIT"],                  
           DataBases: [ "MySQL",],
           API: [ "openAPI"],
-          Jobb: " I'm looking to Collaborate on Front-end Project"
+          Job: " I'm looking to Collaborate on Front-end Project"
         },         
         frontEnd: {             
           web: ["i'm  front-en developer"],         
