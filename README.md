@@ -2,9 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome&height=100&section=header"/>
 </p>
 
-
+  <p>   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=34F75F&width=435&lines=Hi+welcome+to+my+github+account.++;Here+can+you+see+my+project)](https://git.io/typing-svg)</p>
  Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=34F75F&width=435&lines=Hi+welcome+to+my+github+account.++;Here+can+you+see+my+project)](https://git.io/typing-svg)
 I am a web Developer and software engineer from Afghanistan
 
  
