@@ -42,7 +42,10 @@ const AkbarM = {
 <br>
 
 <h1 align="center">Skills</h1>
-<a href="https://github.com/akbarmkalani"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neginsoleimani&langs_count=10&title_color=57bcda&text_color=ffffff&icon_color=facc15&bg_color=20232a&locale=en&hide_border=true&custom_title=Top%30%Languages" alt="Top Languages">
+<a href="https://github.com/akbarmkalani">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarmkalani&langs_count=10&title_color=57bcda&text_color=ffffff&icon_color=facc15&bg_color=20232a&locale=en&hide_border=true&custom_title=Top%30%Languages" alt="Top Languages">
+</a>
+
 
 <p align="left">
 
