@@ -18,10 +18,11 @@ const AkbarM = {
     aboutMe: "I'm front end Developer from from Afghanistan"
     language: ["javaScript" "continue"]          
     myStack: {             
-        frontEndDeveloper: {             
-          frameworks: ["React.js", "Swiper", "SCSS" , "bootstrap", "tailwind", "HTML","CSS","GIT"],                  
+        frontEndDeveloper: {
+         skill: ["JavaScript", "React", "Nextjs", "Tailwind", "bootstrap",  "....."   ]   
+          frameworks: ["React.js", "NextJS ", "Swiper", "SCSS" , "bootstrap", "tailwind", "GIT"],                  
           DataBases: [ "MySQL",],
-          API: [ "openAPI"],
+          API: [ "openAPI" , "rest Api" ],
           Job: " I'm looking to Collaborate on Front-end Project"
         },         
         frontEnd: {             
