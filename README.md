@@ -19,7 +19,7 @@ const AkbarM = {
     language: ["javaScript" "continue"]          
     myStack: {             
         frontEndDeveloper: {
-         skill: ["JavaScript", "React", "Nextjs", "Tailwind", "bootstrap",  "....."   ]   
+          skill: ["JavaScript", "React", "Nextjs", "Tailwind", "bootstrap",  "....."   ],  
           frameworks: ["React.js", "NextJS ", "Swiper", "SCSS" , "bootstrap", "tailwind", "GIT"],                  
           DataBases: [ "MySQL",],
           API: [ "openAPI" , "rest Api" ],
