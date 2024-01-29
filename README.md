@@ -21,7 +21,7 @@ const AkbarM = {
         frontEndDeveloper: {
           skill: ["JavaScript", "React", "Nextjs", "Tailwind", "bootstrap",  "....."   ],  
           frameworks: ["React.js", "NextJS ", "Swiper", "SCSS" , "bootstrap", "tailwind", "GIT"],                  
-          DataBases: [ "MySQL",],
+          DataBases: [ "MongoDB, OpneDB",],
           API: [ "openAPI" , "rest Api" ],
           Job: " I'm looking to Collaborate on Front-end Project"
         },         
