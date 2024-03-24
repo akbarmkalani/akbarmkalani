@@ -14,7 +14,7 @@ I am a web Developer and software engineer from Afghanistan
 ```javascript
 const AkbarM = {     
     pronouns: "He" | "Him",   
-     Name: "Akbar (Kalani) Mohammadi " ,
+     Name: "Akbar Mohammadi " ,
     aboutMe: "I'm front end Developer from from Afghanistan"
     language: ["javaScript" "continue"]          
     myStack: {             
@@ -64,7 +64,7 @@ const AkbarM = {
     
 <h1 align="center">Socials</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/akbar-kalani-m/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/akbar-mh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.instagram.com/code_by_akbar/" target="_blank" rel="noreferrer" align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 </p>
     
